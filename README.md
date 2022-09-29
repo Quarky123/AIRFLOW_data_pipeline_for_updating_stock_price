@@ -5,3 +5,5 @@ this airflow data pipeline does the following:
 3. save the new stock information into HDFS
 4. save the new stock information into hive
 5. sends an email to the user once all that is done
+
+i have covid right now, i will update the rest when i am feeling better.

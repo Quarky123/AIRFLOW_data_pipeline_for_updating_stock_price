@@ -1,0 +1,6 @@
+docker build -t airflow-basic .
+docker run --rm -d -p 8080:8080 airflow-basic
+docker ps
+
+To start docker container
+./start.sh

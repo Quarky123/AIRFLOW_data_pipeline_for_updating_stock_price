@@ -1,4 +1,4 @@
-# portfolio_RSI_email_notification
+# Data pipeline for updating stock price for further processing
 
 This project deals with collecting real-time stock price data (any stock that is on yahoo finance), processing these stock price after mapping the attributes to the desired columns and then storing in the data for further analysis.
 

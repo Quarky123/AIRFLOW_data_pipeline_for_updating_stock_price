@@ -12,7 +12,7 @@ the dag file can be found on portfolio_RSI_email_notification/mnt/airflow/dags/s
 
 Tech stack used in this project:
 - Apache Airflow
-- HDFS
+- Hadoop 
 - Hive (HQL, similar to SQL)
 - Spark will be used in a future project
 
